@@ -1,0 +1,61 @@
+<app-header></app-header>
+<div class="row">
+    <div class="col-md-4"></div>
+    <div class="input-group mb-3 col-md-4 mt-5">
+        <input type="text" 
+        class="form-control"
+        placeholder="Search by name" 
+        [(ngModel)]="filter" >
+        <div class="input-group-append">
+          <i class="fa fa-search input-group-text" id="basic-addon2"></i>
+        </div>
+      </div>
+    <div class="col-md-2">
+
+    </div>
+</div>
+<div class="row marginLeft box box shadow p-3 mb-5 bg-white rounded">
+    <div class="col-md-3 ml-5 mr-4 mt-2 mb-2 box box shadow p-3 mb-5 bg-white rounded"
+        (click)="navigateCharacter(characters)" *ngFor="let characters of charactersList | searchFilter : filter">
+        <div class="clearfix">
+            <img [src]="characters.image.thumb_url"
+            class="shadow mb-3 mr-2 "
+             style="float: left;" height="150px" width="120px">
+            <div class="headingStyle ">Name</div>
+            <div class="ml-3 textColour ">{{characters.name}}</div>
+            <div class="headingStyle ml-3">Real name</div>
+            <div class="ml-3 textColour ">{{characters.real_name == Null ? "NA" : characters.real_name | titlecase}}</div>
+
+        </div>
+
+        <div class="row textColour ml-2">
+            <p>{{characters.deck}}</p>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-4"></div>
+    <div class="col-md-4"></div>
+    <div class="col-md-4">
+        <div>
+            <nav>
+                <ul class="pagination" style="cursor: pointer;">
+                    <li class="page-item" [ngClass]="{'disabled' : currentPageNo == 1}">
+                        <a class="page-link" aria-disabled="true" (click)="prevPage()">
+                            Previous
+                        </a>
+                    </li>
+                    <li class="page-item" (click)="navigatePage(number)" [ngClass]="{'active':currentPageNo == number}"
+                        *ngFor="let number of pageNumbers">
+                        <a class="page-link">{{number}}</a>
+                    </li>
+                    <li class="page-item" [ngClass]="{'disabled' : currentPageNo == 6}">
+                        <a class="page-link" (click)="nextPage()">
+                            Next
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</div>

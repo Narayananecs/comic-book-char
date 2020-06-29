@@ -1,1 +1,45 @@
 /* You can add global styles to this file, and also import other style files */
+.border-radius {
+    border-radius: 25px;
+}
+
+.box {
+    border: 1px solid green;
+}
+
+.marginLeft {
+    margin-left: 7%;
+    margin-right: 7%;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+  }
+
+  .cardScroll {
+      max-height: 280px;
+       overflow-y: scroll; 
+  }
+
+  img {
+      border-radius: 8px;
+  }
+
+  .textColour {
+    color: #6c757d;
+    font-size: 14px;
+  }
+
+  .marginTop {
+    margin-top: 12%;
+}
+
+input.ng-invalid.ng-touched {
+    border: 1px solid red;
+  }
+
+  .headingStyle {
+      font-weight: 600;
+      font-size: 20px;
+  }

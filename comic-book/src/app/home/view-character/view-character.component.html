@@ -1,0 +1,63 @@
+<app-header></app-header>
+<div class="marginLeft box box shadow p-3 mb-5 bg-white rounded">
+    <div class="row">
+        <div class="col-md-3">
+            <img class="img-fliud" height="150px" width="150px" [src]="characterData?.image.thumb_url">
+        </div>
+        <div class="col-md-3">
+            <p class="headingStyle">Name </p>
+            <p class="text-muted">{{characterData?.name | titlecase}}</p>
+            <p class="headingStyle">Real Name </p>
+            <p class="text-muted">{{characterData?.real_name == null ? "Null" :  characterData.real_name | titlecase}}
+            </p>
+        </div>
+        <div class="col-md-3">
+            <p class="headingStyle">Gender </p>
+            <p class="text-muted">{{characterData?.gender == 1 ? "Male" : "Female" }}</p>
+            <p class="headingStyle">Birth </p>
+            <p class="text-muted">{{characterData?.birth == null ? "Null" :  characterData.birth | titlecase}}</p>
+        </div>
+        <div class="col-md-3">
+            <p class="headingStyle">Origin </p>
+            <p class="text-muted">{{characterData?.origin == null ? "Null" : characterData.origin.name }}</p>
+        </div>
+    </div>
+    <hr>
+    <div class="row">
+        <div class="col-md-4 ">
+            <p class="headingStyle">Powers</p>
+            <ul class="list-group cardScroll" *ngIf="characterData.powers.length != 0">
+                <li class="list-group-item"
+                *ngFor="let powers of characterData.powers">{{powers.name}}</li>
+            </ul>
+            <small *ngIf="characterData.powers.length == 0">
+                No results Found
+            </small>
+        </div>
+        <div class="col-md-4">
+            <p class="headingStyle">Friends</p>
+            <ul class="list-group cardScroll" *ngIf="characterData.character_friends.length != 0">
+                <li class="list-group-item"
+                *ngFor="let friends of characterData.character_friends">
+                {{friends.name}}
+            </li>
+            </ul>
+            <small *ngIf="characterData.character_friends.length == 0">
+                No results Found
+            </small>
+        </div>
+        <div class="col-md-4">
+            <p class="headingStyle">Enemies</p>
+            <ul class="list-group cardScroll" *ngIf="characterData.character_enemies.length != 0">
+                <li class="list-group-item"
+                *ngFor="let enemies of characterData.character_enemies">
+                {{enemies.name}}
+            </li>
+            </ul>
+            <small *ngIf="characterData.character_enemies.length == 0">
+                No results Found
+            </small>
+        </div>
+    </div>
+   
+</div>

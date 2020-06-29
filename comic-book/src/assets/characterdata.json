@@ -1,0 +1,1373 @@
+{
+"148111":{
+    "error": "OK",
+    "limit": 1,
+    "offset": 0,
+    "number_of_page_results": 1,
+    "number_of_total_results": 1,
+    "status_code": 1,
+    "results": {
+      "aliases": null,
+      "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-148111/",
+      "birth": null,
+      "character_enemies": [
+        
+      ],
+      "character_friends": [
+        
+      ],
+      "count_of_issue_appearances": 0,
+      "creators": [
+        
+      ],
+      "date_added": "2018-05-19 09:26:50",
+      "date_last_updated": "2020-06-28 10:19:50",
+      "deck": "Kya is a master waterbender who is Tenzin's older sister and the only daughter of Katara and the late Avatar Aang.",
+      "description": null,
+      "first_appeared_in_issue": null,
+      "gender": 0,
+      "id": 148111,
+      "image": {
+        "icon_url": "https://comicvine1.cbsistatic.com/uploads/square_avatar/11133/111336082/6434130-kya_%28waterbender%29.jpg",
+        "medium_url": "https://comicvine1.cbsistatic.com/uploads/scale_medium/11133/111336082/6434130-kya_%28waterbender%29.jpg",
+        "screen_url": "https://comicvine1.cbsistatic.com/uploads/screen_medium/11133/111336082/6434130-kya_%28waterbender%29.jpg",
+        "screen_large_url": "https://comicvine1.cbsistatic.com/uploads/screen_kubrick/11133/111336082/6434130-kya_%28waterbender%29.jpg",
+        "small_url": "https://comicvine1.cbsistatic.com/uploads/scale_small/11133/111336082/6434130-kya_%28waterbender%29.jpg",
+        "super_url": "https://comicvine1.cbsistatic.com/uploads/scale_large/11133/111336082/6434130-kya_%28waterbender%29.jpg",
+        "thumb_url": "https://comicvine1.cbsistatic.com/uploads/scale_avatar/11133/111336082/6434130-kya_%28waterbender%29.jpg",
+        "tiny_url": "https://comicvine1.cbsistatic.com/uploads/square_mini/11133/111336082/6434130-kya_%28waterbender%29.jpg",
+        "original_url": "https://comicvine1.cbsistatic.com/uploads/original/11133/111336082/6434130-kya_%28waterbender%29.png",
+        "image_tags": "All Images"
+      },
+      "issue_credits": [
+        
+      ],
+      "issues_died_in": [
+        
+      ],
+      "movies": [
+        
+      ],
+      "name": "dupe",
+      "origin": null,
+      "powers": [
+        
+      ],
+      "publisher": null,
+      "real_name": null,
+      "site_detail_url": "https://comicvine.gamespot.com/dupe/4005-148111/",
+      "story_arc_credits": [
+        
+      ],
+      "team_enemies": [
+        
+      ],
+      "team_friends": [
+        
+      ],
+      "teams": [
+        
+      ],
+      "volume_credits": [
+        
+      ]
+    },
+    "version": "1.0"
+  },
+
+
+  "162948" : {
+    "error": "OK",
+    "limit": 1,
+    "offset": 0,
+    "number_of_page_results": 1,
+    "number_of_total_results": 1,
+    "status_code": 1,
+    "results": {
+      "aliases": null,
+      "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-162948/",
+      "birth": null,
+      "character_enemies": [
+        
+      ],
+      "character_friends": [
+        
+      ],
+      "count_of_issue_appearances": 0,
+      "creators": [
+        
+      ],
+      "date_added": "2020-06-28 10:19:14",
+      "date_last_updated": "2020-06-28 10:19:14",
+      "deck": null,
+      "description": null,
+      "first_appeared_in_issue": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/first_appeared_in_issue/4000-610447/",
+        "id": 610447,
+        "name": "Part One",
+        "issue_number": "1"
+      },
+      "gender": 0,
+      "id": 162948,
+      "image": {
+        "icon_url": "https://comicvine1.cbsistatic.com/uploads/square_avatar/11122/111222211/6373148-blank.png",
+        "medium_url": "https://comicvine1.cbsistatic.com/uploads/scale_medium/11122/111222211/6373148-blank.png",
+        "screen_url": "https://comicvine1.cbsistatic.com/uploads/screen_medium/11122/111222211/6373148-blank.png",
+        "screen_large_url": "https://comicvine1.cbsistatic.com/uploads/screen_kubrick/11122/111222211/6373148-blank.png",
+        "small_url": "https://comicvine1.cbsistatic.com/uploads/scale_small/11122/111222211/6373148-blank.png",
+        "super_url": "https://comicvine1.cbsistatic.com/uploads/scale_large/11122/111222211/6373148-blank.png",
+        "thumb_url": "https://comicvine1.cbsistatic.com/uploads/scale_avatar/11122/111222211/6373148-blank.png",
+        "tiny_url": "https://comicvine1.cbsistatic.com/uploads/square_mini/11122/111222211/6373148-blank.png",
+        "original_url": "https://comicvine1.cbsistatic.com/uploads/original/11122/111222211/6373148-blank.png",
+        "image_tags": ",All Images,asgard,Avatars,carpediem081108,Classified: Dark Syntinel,Custom Pack,dp,Heroes/Villains,Jeff Hardy,Kurama,Mack's Gallery,Mangekyou Sharingan,Mis,My Off-Topic Shizzzzzz,My Pics,Old pics,other,Other Pictures,Pics for my Background,pics of characters i found,Sorting,Spider-Man and Etc.. Gallery,SPIRALMIND,Stuff I Made on the Computer,yeah."
+      },
+      "issue_credits": [
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-610447/",
+          "id": 610447,
+          "name": "Part One",
+          "site_detail_url": "https://comicvine.gamespot.com/the-legend-of-korra-turf-wars-1-part-one/4000-610447/"
+        }
+      ],
+      "issues_died_in": [
+        
+      ],
+      "movies": [
+        
+      ],
+      "name": "Jargala",
+      "origin": null,
+      "powers": [
+        
+      ],
+      "publisher": null,
+      "real_name": null,
+      "site_detail_url": "https://comicvine.gamespot.com/jargala/4005-162948/",
+      "story_arc_credits": [
+        
+      ],
+      "team_enemies": [
+        
+      ],
+      "team_friends": [
+        
+      ],
+      "teams": [
+        
+      ],
+      "volume_credits": [
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-103098/",
+          "id": 103098,
+          "name": "Nickelodeon The Legend of Korra – Turf Wars",
+          "site_detail_url": "https://comicvine.gamespot.com/nickelodeon-the-legend-of-korra-turf-wars/4050-103098/"
+        }
+      ]
+    },
+    "version": "1.0"
+  },
+
+ 
+  "122866" : {
+    "error": "OK",
+    "limit": 1,
+    "offset": 0,
+    "number_of_page_results": 1,
+    "number_of_total_results": 1,
+    "status_code": 1,
+    "results": {
+      "aliases": null,
+      "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-122866/",
+      "birth": null,
+      "character_enemies": [
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-82569/",
+          "id": 82569,
+          "name": "Araxe De Kerkadio",
+          "site_detail_url": "https://comicvine.gamespot.com/araxe-de-kerkadio/4005-82569/"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-45425/",
+          "id": 45425,
+          "name": "Harlan Draka",
+          "site_detail_url": "https://comicvine.gamespot.com/harlan-draka/4005-45425/"
+        }
+      ],
+      "character_friends": [
+        
+      ],
+      "count_of_issue_appearances": 3,
+      "creators": [
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/creator/4040-58132/",
+          "id": 58132,
+          "name": "Maurizio Colombo",
+          "site_detail_url": "https://comicvine.gamespot.com/maurizio-colombo/4040-58132/"
+        }
+      ],
+      "date_added": "2015-09-28 03:11:27",
+      "date_last_updated": "2020-06-28 10:15:18",
+      "deck": "Verdier is a Paris Master of the Night, who gave himself to the Great Old Ones",
+      "description": "<p>Verdier is a <a href=\"https://comicvine.gamespot.com/masters-of-the-night/4060-58937/\">Master of the Night</a> who lived in Paris. Humans weren't enough for him, he wanted to control all the Masters of the Night. He met Tenardier, an architect and alchemist member of the cult of the Great Old Ones, who offered him greater power in exchange of immortality as one of his un-deads. Tenardier and his followers were about the fulfill a ritual that was supposed to turn Verdier in a superior being, but <a href=\"https://comicvine.gamespot.com/araxe-de-kerkadio/4005-82569/\">Araxe De Kerkadio</a> intervened to stop it and threw Verdier into the sacrificial pit. That caused a great explosion to occur, sign of the rage of the ancient gods. She thought that was the end, but it was still alive. Tenardier brought him to one of his manors, where Verdier recovered his strength, but, the Great Old Ones turned him into a mindless and horrible monster. With time, Verdier expanded himself in the entire mansion, becoming one with it, and started to consume the people who set up home there, turning them into his slaves.</p>",
+      "first_appeared_in_issue": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/first_appeared_in_issue/4000-280520/",
+        "id": 280520,
+        "name": "Casa di sangue",
+        "issue_number": "10"
+      },
+      "gender": 1,
+      "id": 122866,
+      "image": {
+        "icon_url": "https://comicvine1.cbsistatic.com/uploads/square_avatar/0/77/4825181-1234556_661805200506037_1456298983_n.jpg",
+        "medium_url": "https://comicvine1.cbsistatic.com/uploads/scale_medium/0/77/4825181-1234556_661805200506037_1456298983_n.jpg",
+        "screen_url": "https://comicvine1.cbsistatic.com/uploads/screen_medium/0/77/4825181-1234556_661805200506037_1456298983_n.jpg",
+        "screen_large_url": "https://comicvine1.cbsistatic.com/uploads/screen_kubrick/0/77/4825181-1234556_661805200506037_1456298983_n.jpg",
+        "small_url": "https://comicvine1.cbsistatic.com/uploads/scale_small/0/77/4825181-1234556_661805200506037_1456298983_n.jpg",
+        "super_url": "https://comicvine1.cbsistatic.com/uploads/scale_large/0/77/4825181-1234556_661805200506037_1456298983_n.jpg",
+        "thumb_url": "https://comicvine1.cbsistatic.com/uploads/scale_avatar/0/77/4825181-1234556_661805200506037_1456298983_n.jpg",
+        "tiny_url": "https://comicvine1.cbsistatic.com/uploads/square_mini/0/77/4825181-1234556_661805200506037_1456298983_n.jpg",
+        "original_url": "https://comicvine1.cbsistatic.com/uploads/original/0/77/4825181-1234556_661805200506037_1456298983_n.jpg",
+        "image_tags": "All Images"
+      },
+      "issue_credits": [
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-768759/",
+          "id": 768759,
+          "name": "Le storie speciali",
+          "site_detail_url": "https://comicvine.gamespot.com/maxi-dampyr-10-le-storie-speciali/4000-768759/"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-501517/",
+          "id": 501517,
+          "name": "La Bestia del Gevaudan",
+          "site_detail_url": "https://comicvine.gamespot.com/dampyr-159-la-bestia-del-gevaudan/4000-501517/"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-280520/",
+          "id": 280520,
+          "name": "Casa di sangue",
+          "site_detail_url": "https://comicvine.gamespot.com/dampyr-10-casa-di-sangue/4000-280520/"
+        }
+      ],
+      "issues_died_in": [
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-280520/",
+          "id": 280520,
+          "name": "Casa di sangue",
+          "site_detail_url": "https://comicvine.gamespot.com/dampyr-10-casa-di-sangue/4000-280520/"
+        }
+      ],
+      "movies": [
+        
+      ],
+      "name": "Verdier",
+      "origin": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/origin/4030-3/",
+        "id": 3,
+        "name": "Alien"
+      },
+      "powers": [
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/power/4035-2/",
+          "id": 2,
+          "name": "Super Strength"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/power/4035-3/",
+          "id": 3,
+          "name": "Super Speed"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/power/4035-4/",
+          "id": 4,
+          "name": "Agility"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/power/4035-5/",
+          "id": 5,
+          "name": "Stamina"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/power/4035-11/",
+          "id": 11,
+          "name": "Radar Sense"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/power/4035-12/",
+          "id": 12,
+          "name": "Psychic"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/power/4035-15/",
+          "id": 15,
+          "name": "Healing"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/power/4035-18/",
+          "id": 18,
+          "name": "Super Sight"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/power/4035-19/",
+          "id": 19,
+          "name": "Super Smell"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/power/4035-20/",
+          "id": 20,
+          "name": "Super Hearing"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/power/4035-24/",
+          "id": 24,
+          "name": "Shape Shifter"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/power/4035-33/",
+          "id": 33,
+          "name": "Elasticity"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/power/4035-34/",
+          "id": 34,
+          "name": "Unarmed Combat"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/power/4035-50/",
+          "id": 50,
+          "name": "Vampirism"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/power/4035-55/",
+          "id": 55,
+          "name": "Mesmerize"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/power/4035-68/",
+          "id": 68,
+          "name": "Animation"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/power/4035-70/",
+          "id": 70,
+          "name": "Super Eating"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/power/4035-102/",
+          "id": 102,
+          "name": "Illusion Casting"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/power/4035-113/",
+          "id": 113,
+          "name": "Claws"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/power/4035-131/",
+          "id": 131,
+          "name": "Chemical Absorbtion"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/power/4035-132/",
+          "id": 132,
+          "name": "Stealth"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/power/4035-136/",
+          "id": 136,
+          "name": "Longevity"
+        }
+      ],
+      "publisher": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-100/",
+        "id": 100,
+        "name": "Sergio Bonelli Editore"
+      },
+      "real_name": "Verdier",
+      "site_detail_url": "https://comicvine.gamespot.com/verdier/4005-122866/",
+      "story_arc_credits": [
+        
+      ],
+      "team_enemies": [
+        
+      ],
+      "team_friends": [
+        
+      ],
+      "teams": [
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/team/4060-58937/",
+          "id": 58937,
+          "name": "Masters of the Night",
+          "site_detail_url": "https://comicvine.gamespot.com/masters-of-the-night/4060-58937/"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/team/4060-58455/",
+          "id": 58455,
+          "name": "Vampires",
+          "site_detail_url": "https://comicvine.gamespot.com/vampires/4060-58455/"
+        }
+      ],
+      "volume_credits": [
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-29465/",
+          "id": 29465,
+          "name": "Dampyr",
+          "site_detail_url": "https://comicvine.gamespot.com/dampyr/4050-29465/"
+        }
+      ]
+    },
+    "version": "1.0"
+  },
+
+
+ 
+  "8740": {
+    "error": "OK",
+    "limit": 1,
+    "offset": 0,
+    "number_of_page_results": 1,
+    "number_of_total_results": 1,
+    "status_code": 1,
+    "results": {
+      "aliases": null,
+      "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-8740/",
+      "birth": null,
+      "character_enemies": [
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-131369/",
+          "id": 131369,
+          "name": "Black Panda",
+          "site_detail_url": "https://comicvine.gamespot.com/black-panda/4005-131369/"
+        }
+      ],
+      "character_friends": [
+        
+      ],
+      "count_of_issue_appearances": 6,
+      "creators": [
+        
+      ],
+      "date_added": "2008-06-06 11:26:21",
+      "date_last_updated": "2020-06-28 09:56:22",
+      "deck": null,
+      "description": null,
+      "first_appeared_in_issue": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/first_appeared_in_issue/4000-93535/",
+        "id": 93535,
+        "name": "\"To Oink or Not to Oink\" or \"The Days of Swine and Roses\"; The Mighty Scavengers",
+        "issue_number": "15"
+      },
+      "gender": 1,
+      "id": 8740,
+      "image": {
+        "icon_url": "https://comicvine1.cbsistatic.com/uploads/square_avatar/11/114254/2251027-kangaroo_the_conqueror001.jpg",
+        "medium_url": "https://comicvine1.cbsistatic.com/uploads/scale_medium/11/114254/2251027-kangaroo_the_conqueror001.jpg",
+        "screen_url": "https://comicvine1.cbsistatic.com/uploads/screen_medium/11/114254/2251027-kangaroo_the_conqueror001.jpg",
+        "screen_large_url": "https://comicvine1.cbsistatic.com/uploads/screen_kubrick/11/114254/2251027-kangaroo_the_conqueror001.jpg",
+        "small_url": "https://comicvine1.cbsistatic.com/uploads/scale_small/11/114254/2251027-kangaroo_the_conqueror001.jpg",
+        "super_url": "https://comicvine1.cbsistatic.com/uploads/scale_large/11/114254/2251027-kangaroo_the_conqueror001.jpg",
+        "thumb_url": "https://comicvine1.cbsistatic.com/uploads/scale_avatar/11/114254/2251027-kangaroo_the_conqueror001.jpg",
+        "tiny_url": "https://comicvine1.cbsistatic.com/uploads/square_mini/11/114254/2251027-kangaroo_the_conqueror001.jpg",
+        "original_url": "https://comicvine1.cbsistatic.com/uploads/original/11/114254/2251027-kangaroo_the_conqueror001.jpg",
+        "image_tags": "All Images,Larval Earth"
+      },
+      "issue_credits": [
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-769754/",
+          "id": 769754,
+          "name": null,
+          "site_detail_url": "https://comicvine.gamespot.com/spider-ham-5/4000-769754/"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-740824/",
+          "id": 740824,
+          "name": null,
+          "site_detail_url": "https://comicvine.gamespot.com/spider-ham-4/4000-740824/"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-738618/",
+          "id": 738618,
+          "name": null,
+          "site_detail_url": "https://comicvine.gamespot.com/spider-ham-3/4000-738618/"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-735476/",
+          "id": 735476,
+          "name": null,
+          "site_detail_url": "https://comicvine.gamespot.com/spider-ham-2/4000-735476/"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-712543/",
+          "id": 712543,
+          "name": "TPB",
+          "site_detail_url": "https://comicvine.gamespot.com/peter-porker-the-spectacular-spider-ham-the-comple/4000-712543/"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-93535/",
+          "id": 93535,
+          "name": "\"To Oink or Not to Oink\" or \"The Days of Swine and Roses\"; The Mighty Scavengers",
+          "site_detail_url": "https://comicvine.gamespot.com/peter-porker-the-spectacular-spider-ham-15-to-oink/4000-93535/"
+        }
+      ],
+      "issues_died_in": [
+        
+      ],
+      "movies": [
+        
+      ],
+      "name": "Kangaroo The Conqueror",
+      "origin": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/origin/4030-8/",
+        "id": 8,
+        "name": "Animal"
+      },
+      "powers": [
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/power/4035-35/",
+          "id": 35,
+          "name": "Gadgets"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/power/4035-93/",
+          "id": 93,
+          "name": "Time Travel"
+        }
+      ],
+      "publisher": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-31/",
+        "id": 31,
+        "name": "Marvel"
+      },
+      "real_name": null,
+      "site_detail_url": "https://comicvine.gamespot.com/kangaroo-the-conqueror/4005-8740/",
+      "story_arc_credits": [
+        
+      ],
+      "team_enemies": [
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/team/4060-63332/",
+          "id": 63332,
+          "name": "Scavengers",
+          "site_detail_url": "https://comicvine.gamespot.com/scavengers/4060-63332/"
+        }
+      ],
+      "team_friends": [
+        
+      ],
+      "teams": [
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/team/4060-45716/",
+          "id": 45716,
+          "name": "Council of Kangs",
+          "site_detail_url": "https://comicvine.gamespot.com/council-of-kangs/4060-45716/"
+        }
+      ],
+      "volume_credits": [
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-3499/",
+          "id": 3499,
+          "name": "Peter Porker, The Spectacular Spider-Ham",
+          "site_detail_url": "https://comicvine.gamespot.com/peter-porker-the-spectacular-spider-ham/4050-3499/"
+        }
+      ]
+    },
+    "version": "1.0"
+  },
+
+ 
+  "157319" : {   
+    "error": "OK",
+    "limit": 1,
+    "offset": 0,
+    "number_of_page_results": 1,
+    "number_of_total_results": 1,
+    "status_code": 1,
+    "results": {
+      "aliases": "Katarina Claes",
+      "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-157319/",
+      "birth": null,
+      "character_enemies": [
+        
+      ],
+      "character_friends": [
+        
+      ],
+      "count_of_issue_appearances": 1,
+      "creators": [
+        
+      ],
+      "date_added": "2019-07-30 00:24:45",
+      "date_last_updated": "2020-06-28 05:56:47",
+      "deck": null,
+      "description": null,
+      "first_appeared_in_issue": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/first_appeared_in_issue/4000-714537/",
+        "id": 714537,
+        "name": "(Re)Born to be Wild!",
+        "issue_number": "1"
+      },
+      "gender": 2,
+      "id": 157319,
+      "image": {
+        "icon_url": "https://comicvine1.cbsistatic.com/uploads/square_avatar/11122/111222211/6373148-blank.png",
+        "medium_url": "https://comicvine1.cbsistatic.com/uploads/scale_medium/11122/111222211/6373148-blank.png",
+        "screen_url": "https://comicvine1.cbsistatic.com/uploads/screen_medium/11122/111222211/6373148-blank.png",
+        "screen_large_url": "https://comicvine1.cbsistatic.com/uploads/screen_kubrick/11122/111222211/6373148-blank.png",
+        "small_url": "https://comicvine1.cbsistatic.com/uploads/scale_small/11122/111222211/6373148-blank.png",
+        "super_url": "https://comicvine1.cbsistatic.com/uploads/scale_large/11122/111222211/6373148-blank.png",
+        "thumb_url": "https://comicvine1.cbsistatic.com/uploads/scale_avatar/11122/111222211/6373148-blank.png",
+        "tiny_url": "https://comicvine1.cbsistatic.com/uploads/square_mini/11122/111222211/6373148-blank.png",
+        "original_url": "https://comicvine1.cbsistatic.com/uploads/original/11122/111222211/6373148-blank.png",
+        "image_tags": ",All Images,asgard,Avatars,carpediem081108,Classified: Dark Syntinel,Custom Pack,dp,Heroes/Villains,Jeff Hardy,Kurama,Mack's Gallery,Mangekyou Sharingan,Mis,My Off-Topic Shizzzzzz,My Pics,Old pics,other,Other Pictures,Pics for my Background,pics of characters i found,Sorting,Spider-Man and Etc.. Gallery,SPIRALMIND,Stuff I Made on the Computer,yeah."
+      },
+      "issue_credits": [
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-770465/",
+          "id": 770465,
+          "name": "Volume 1",
+          "site_detail_url": "https://comicvine.gamespot.com/my-next-life-as-a-villainess-all-routes-lead-to-do/4000-770465/"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-714537/",
+          "id": 714537,
+          "name": "(Re)Born to be Wild!",
+          "site_detail_url": "https://comicvine.gamespot.com/my-next-life-as-a-villainess-all-routes-lead-to-do/4000-714537/"
+        }
+      ],
+      "issues_died_in": [
+        
+      ],
+      "movies": [
+        
+      ],
+      "name": "Catarina Claes",
+      "origin": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/origin/4030-4/",
+        "id": 4,
+        "name": "Human"
+      },
+      "powers": [
+        
+      ],
+      "publisher": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-2832/",
+        "id": 2832,
+        "name": "Ichijinsha"
+      },
+      "real_name": "Catarina Claes",
+      "site_detail_url": "https://comicvine.gamespot.com/catarina-claes/4005-157319/",
+      "story_arc_credits": [
+        
+      ],
+      "team_enemies": [
+        
+      ],
+      "team_friends": [
+        
+      ],
+      "teams": [
+        
+      ],
+      "volume_credits": [
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-120430/",
+          "id": 120430,
+          "name": "My Next Life as a Villainess: All Routes Lead to Doom!",
+          "site_detail_url": "https://comicvine.gamespot.com/my-next-life-as-a-villainess-all-routes-lead-to-do/4050-120430/"
+        }
+      ]
+    },
+    "version": "1.0"
+  },
+
+
+  "39748": {
+    "error": "OK",
+    "limit": 1,
+    "offset": 0,
+    "number_of_page_results": 1,
+    "number_of_total_results": 1,
+    "status_code": 1,
+    "results": {
+      "aliases": "Odin Eidolon\r\nOne",
+      "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-39748/",
+      "birth": null,
+      "character_enemies": [
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-39892/",
+          "id": 39892,
+          "name": "Due",
+          "site_detail_url": "https://comicvine.gamespot.com/due/4005-39892/"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-37757/",
+          "id": 37757,
+          "name": "Imperatore",
+          "site_detail_url": "https://comicvine.gamespot.com/imperatore/4005-37757/"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-32306/",
+          "id": 32306,
+          "name": "Kronin",
+          "site_detail_url": "https://comicvine.gamespot.com/kronin/4005-32306/"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-34324/",
+          "id": 34324,
+          "name": "Razziatore",
+          "site_detail_url": "https://comicvine.gamespot.com/razziatore/4005-34324/"
+        }
+      ],
+      "character_friends": [
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-22182/",
+          "id": 22182,
+          "name": "Donald Duck",
+          "site_detail_url": "https://comicvine.gamespot.com/donald-duck/4005-22182/"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-21672/",
+          "id": 21672,
+          "name": "Lyla Lay",
+          "site_detail_url": "https://comicvine.gamespot.com/lyla-lay/4005-21672/"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-22366/",
+          "id": 22366,
+          "name": "Xadhoom",
+          "site_detail_url": "https://comicvine.gamespot.com/xadhoom/4005-22366/"
+        }
+      ],
+      "count_of_issue_appearances": 120,
+      "creators": [
+        
+      ],
+      "date_added": "2008-06-06 11:26:08",
+      "date_last_updated": "2020-06-28 02:26:04",
+      "deck": "Cybernetic super-brain created by Everett Ducklair.",
+      "description": "<p>Uno was created by <a href=\"/everett-ducklair/4005-45186/\" data-ref-id=\"4005-45186\">Everett Ducklair</a> and guards the <a href=\"/ducklair-tower/4020-58070/\" data-ref-id=\"4020-58070\">Ducklair Tower</a> after he left. He quickly befriends the <a href=\"/donald-duck/4005-22182/\" data-ref-id=\"4005-22182\">Duck Avenger</a> alias Donald Duck when he moved to the tower and becomes his ally and advisor against threats like the <a href=\"/razziatore/4005-34324/\" data-ref-id=\"4005-34324\">Time Pirate</a> or the <a href=\"/evroniani/4060-57144/\" data-ref-id=\"4060-57144\">Evronians</a></p><p>He is love with the reporter <a href=\"/lyla-lay/4005-21672/\" data-ref-id=\"4005-21672\">Lyla Lay,</a> after discovering that she's an android working for the time police.</p><p>At some point, it's revealed that he has an evil back-up system called Dos</p><p><a href=\"/odin-eidolon/4005-61690/\" data-ref-id=\"4005-61690\">Odin Eidolon</a>, a time traveller from the future, is eventually revealed to be the future incarnation of Uno.</p>",
+      "first_appeared_in_issue": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/first_appeared_in_issue/4000-184505/",
+        "id": 184505,
+        "name": "Evroniani",
+        "issue_number": "0/1"
+      },
+      "gender": 0,
+      "id": 39748,
+      "image": {
+        "icon_url": "https://comicvine1.cbsistatic.com/uploads/square_avatar/0/77/846546-it_cfr_031m_049_uno.jpg",
+        "medium_url": "https://comicvine1.cbsistatic.com/uploads/scale_medium/0/77/846546-it_cfr_031m_049_uno.jpg",
+        "screen_url": "https://comicvine1.cbsistatic.com/uploads/screen_medium/0/77/846546-it_cfr_031m_049_uno.jpg",
+        "screen_large_url": "https://comicvine1.cbsistatic.com/uploads/screen_kubrick/0/77/846546-it_cfr_031m_049_uno.jpg",
+        "small_url": "https://comicvine1.cbsistatic.com/uploads/scale_small/0/77/846546-it_cfr_031m_049_uno.jpg",
+        "super_url": "https://comicvine1.cbsistatic.com/uploads/scale_large/0/77/846546-it_cfr_031m_049_uno.jpg",
+        "thumb_url": "https://comicvine1.cbsistatic.com/uploads/scale_avatar/0/77/846546-it_cfr_031m_049_uno.jpg",
+        "tiny_url": "https://comicvine1.cbsistatic.com/uploads/square_mini/0/77/846546-it_cfr_031m_049_uno.jpg",
+        "original_url": "https://comicvine1.cbsistatic.com/uploads/original/0/77/846546-it_cfr_031m_049_uno.jpg",
+        "image_tags": "All Images,Uno"
+      },
+      "issues_died_in": [
+        
+      ],
+      "movies": [
+        
+      ],
+      "name": "Uno",
+      "origin": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/origin/4030-9/",
+        "id": 9,
+        "name": "Other"
+      },
+      "powers": [
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/power/4035-9/",
+          "id": 9,
+          "name": "Intellect"
+        }
+      ],
+      "publisher": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-464/",
+        "id": 464,
+        "name": "Disney"
+      },
+      "real_name": null,
+      "site_detail_url": "https://comicvine.gamespot.com/uno/4005-39748/",
+      "story_arc_credits": [
+        
+      ],
+      "team_enemies": [
+        
+      ],
+      "team_friends": [
+        
+      ],
+      "teams": [
+        
+      ],
+      "volume_credits": [
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-5816/",
+          "id": 5816,
+          "name": "PK - Paperinik New Adventures",
+          "site_detail_url": "https://comicvine.gamespot.com/pk-paperinik-new-adventures/4050-5816/"
+        }
+      ]
+    },
+    "version": "1.0"
+  },
+
+
+  "61690" : {
+    "error": "OK",
+    "limit": 1,
+    "offset": 0,
+    "number_of_page_results": 1,
+    "number_of_total_results": 1,
+    "status_code": 1,
+    "results": {
+      "aliases": "Uno",
+      "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-61690/",
+      "birth": null,
+      "character_enemies": [
+        
+      ],
+      "character_friends": [
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-22182/",
+          "id": 22182,
+          "name": "Donald Duck",
+          "site_detail_url": "https://comicvine.gamespot.com/donald-duck/4005-22182/"
+        }
+      ],
+      "count_of_issue_appearances": 14,
+      "creators": [
+        
+      ],
+      "date_added": "2009-04-27 16:55:17",
+      "date_last_updated": "2020-06-28 02:17:01",
+      "deck": "Time traveller and future incarnation of Donald's AI friend Uno.",
+      "description": "<p>A time traveler from the future, Odin is finally revealed to be the future incarnation of <a href=\"/uno/4005-39748/\" data-ref-id=\"4005-39748\">Uno</a>, the AI created by <a href=\"/everett-ducklair/4005-45186/\" data-ref-id=\"4005-45186\">Everett Ducklair</a>.</p>",
+      "first_appeared_in_issue": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/first_appeared_in_issue/4000-43716/",
+        "id": 43716,
+        "name": "Ritratto dell'eroe da giovane",
+        "issue_number": "5"
+      },
+      "gender": 1,
+      "id": 61690,
+      "image": {
+        "icon_url": "https://comicvine1.cbsistatic.com/uploads/square_avatar/0/77/1036547-f_odin3.jpg",
+        "medium_url": "https://comicvine1.cbsistatic.com/uploads/scale_medium/0/77/1036547-f_odin3.jpg",
+        "screen_url": "https://comicvine1.cbsistatic.com/uploads/screen_medium/0/77/1036547-f_odin3.jpg",
+        "screen_large_url": "https://comicvine1.cbsistatic.com/uploads/screen_kubrick/0/77/1036547-f_odin3.jpg",
+        "small_url": "https://comicvine1.cbsistatic.com/uploads/scale_small/0/77/1036547-f_odin3.jpg",
+        "super_url": "https://comicvine1.cbsistatic.com/uploads/scale_large/0/77/1036547-f_odin3.jpg",
+        "thumb_url": "https://comicvine1.cbsistatic.com/uploads/scale_avatar/0/77/1036547-f_odin3.jpg",
+        "tiny_url": "https://comicvine1.cbsistatic.com/uploads/square_mini/0/77/1036547-f_odin3.jpg",
+        "original_url": "https://comicvine1.cbsistatic.com/uploads/original/0/77/1036547-f_odin3.jpg",
+        "image_tags": "All Images"
+      },
+      "issue_credits": [
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-676475/",
+          "id": 676475,
+          "name": "Book 3",
+          "site_detail_url": "https://comicvine.gamespot.com/duck-avenger-new-adventures-3-book-3/4000-676475/"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-536361/",
+          "id": 536361,
+          "name": "",
+          "site_detail_url": "https://comicvine.gamespot.com/topolino-3152/4000-536361/"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-524486/",
+          "id": 524486,
+          "name": "",
+          "site_detail_url": "https://comicvine.gamespot.com/topolino-3147/4000-524486/"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-519179/",
+          "id": 519179,
+          "name": "Der neue Phantomias im Visier",
+          "site_detail_url": "https://comicvine.gamespot.com/lustiges-taschenbuch-premium-11-der-neue-phantomia/4000-519179/"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-509373/",
+          "id": 509373,
+          "name": "",
+          "site_detail_url": "https://comicvine.gamespot.com/super-picsou-geant-190/4000-509373/"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-509372/",
+          "id": 509372,
+          "name": "",
+          "site_detail_url": "https://comicvine.gamespot.com/super-picsou-geant-189/4000-509372/"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-195144/",
+          "id": 195144,
+          "name": "Le parti e il tutto",
+          "site_detail_url": "https://comicvine.gamespot.com/pk-paperinik-new-adventures-48-le-parti-e-il-tutto/4000-195144/"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-195076/",
+          "id": 195076,
+          "name": "Tempo al tempo",
+          "site_detail_url": "https://comicvine.gamespot.com/pk-paperinik-new-adventures-43-tempo-al-tempo/4000-195076/"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-190533/",
+          "id": 190533,
+          "name": "Niente di personale",
+          "site_detail_url": "https://comicvine.gamespot.com/pk-paperinik-new-adventures-34-niente-di-personale/4000-190533/"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-184672/",
+          "id": 184672,
+          "name": "Frammenti d'autunno",
+          "site_detail_url": "https://comicvine.gamespot.com/pk-paperinik-new-adventures-22-frammenti-dautunno/4000-184672/"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-44714/",
+          "id": 44714,
+          "name": "Carpe diem",
+          "site_detail_url": "https://comicvine.gamespot.com/pk-paperinik-new-adventures-14-carpe-diem/4000-44714/"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-44430/",
+          "id": 44430,
+          "name": "Seconda stesura",
+          "site_detail_url": "https://comicvine.gamespot.com/pk-paperinik-new-adventures-12-seconda-stesura/4000-44430/"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-207963/",
+          "id": 207963,
+          "name": "PKNA Speciale 97: Missing",
+          "site_detail_url": "https://comicvine.gamespot.com/superdisney-7-pkna-speciale-97-missing/4000-207963/"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-43716/",
+          "id": 43716,
+          "name": "Ritratto dell'eroe da giovane",
+          "site_detail_url": "https://comicvine.gamespot.com/pk-paperinik-new-adventures-5-ritratto-delleroe-da/4000-43716/"
+        }
+      ],
+      "issues_died_in": [
+        
+      ],
+      "movies": [
+        
+      ],
+      "name": "Odin Eidolon",
+      "origin": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/origin/4030-8/",
+        "id": 8,
+        "name": "Animal"
+      },
+      "powers": [
+        
+      ],
+      "publisher": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-464/",
+        "id": 464,
+        "name": "Disney"
+      },
+      "real_name": "Uno",
+      "site_detail_url": "https://comicvine.gamespot.com/odin-eidolon/4005-61690/",
+      "story_arc_credits": [
+        
+      ],
+      "team_enemies": [
+        
+      ],
+      "team_friends": [
+        
+      ],
+      "teams": [
+        
+      ],
+      "volume_credits": [
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-5816/",
+          "id": 5816,
+          "name": "PK - Paperinik New Adventures",
+          "site_detail_url": "https://comicvine.gamespot.com/pk-paperinik-new-adventures/4050-5816/"
+        }
+      ]
+    },
+    "version": "1.0"
+  },
+
+
+  "162811" : {
+    "error": "OK",
+    "limit": 1,
+    "offset": 0,
+    "number_of_page_results": 1,
+    "number_of_total_results": 1,
+    "status_code": 1,
+    "results": {
+      "aliases": null,
+      "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-162811/",
+      "birth": null,
+      "character_enemies": [
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-67270/",
+          "id": 67270,
+          "name": "Amber Tremayne",
+          "site_detail_url": "https://comicvine.gamespot.com/amber-tremayne/4005-67270/"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-67264/",
+          "id": 67264,
+          "name": "Emil Kurjak",
+          "site_detail_url": "https://comicvine.gamespot.com/emil-kurjak/4005-67264/"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-45425/",
+          "id": 45425,
+          "name": "Harlan Draka",
+          "site_detail_url": "https://comicvine.gamespot.com/harlan-draka/4005-45425/"
+        }
+      ],
+      "character_friends": [
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-162837/",
+          "id": 162837,
+          "name": "Black Annis",
+          "site_detail_url": "https://comicvine.gamespot.com/black-annis/4005-162837/"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-162810/",
+          "id": 162810,
+          "name": "Claudine Bobash",
+          "site_detail_url": "https://comicvine.gamespot.com/claudine-bobash/4005-162810/"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-82802/",
+          "id": 82802,
+          "name": "Lord Marsden",
+          "site_detail_url": "https://comicvine.gamespot.com/lord-marsden/4005-82802/"
+        }
+      ],
+      "count_of_issue_appearances": 9,
+      "creators": [
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/creator/4040-58131/",
+          "id": 58131,
+          "name": "Mauro Boselli",
+          "site_detail_url": "https://comicvine.gamespot.com/mauro-boselli/4040-58131/"
+        }
+      ],
+      "date_added": "2020-06-23 14:34:23",
+      "date_last_updated": "2020-06-28 02:04:13",
+      "deck": "Sho-Huan is an enigmatic man with the ability to freely travel in the multiverse.",
+      "description": "<p>When <a href=\"/maitre-abel/4005-162928/\" data-ref-id=\"4005-162928\">Maître Abel</a> was killed by an alternative <a href=\"/araxe-de-kerkadio/4005-82569/\" data-ref-id=\"4005-82569\">Araxe De Kerkadio</a> in a parallel France, he was unable to flee in another world, but instead sent his mind, memories and personality to another version of himself. John Ross, a travelling magician of the Victorian London, inherited those gifts and his powers. Initially, he didn't comprehend what happened and was unable to control his powers, wandering randomly through parallel worlds of different ages or structure, as well as different flows of time. Eventually he realized everything and mastered his powers, sending his mind to another self each time he was on the verge of death. He lived uncountably lives, in many worlds and eras, so much that he even lost the count. During one of these trips he found the Plateau of Leng, the followers of the Kuen - Yuin and the cult of the Great Old Ones. From that day, he dedicated his life to bringing them back, becoming one the most elusive and dangerous enemies of <a href=\"/harlan-draka/4005-45425/\" data-ref-id=\"4005-45425\">Harlan Draka</a>.</p>",
+      "first_appeared_in_issue": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/first_appeared_in_issue/4000-501494/",
+        "id": 501494,
+        "name": "Serata al Grand Guignol",
+        "issue_number": "158"
+      },
+      "gender": 1,
+      "id": 162811,
+      "image": {
+        "icon_url": "https://comicvine1.cbsistatic.com/uploads/square_avatar/11142/111423871/7431800-sho.jpg",
+        "medium_url": "https://comicvine1.cbsistatic.com/uploads/scale_medium/11142/111423871/7431800-sho.jpg",
+        "screen_url": "https://comicvine1.cbsistatic.com/uploads/screen_medium/11142/111423871/7431800-sho.jpg",
+        "screen_large_url": "https://comicvine1.cbsistatic.com/uploads/original/11142/111423871/7431800-sho.jpg",
+        "small_url": "https://comicvine1.cbsistatic.com/uploads/scale_small/11142/111423871/7431800-sho.jpg",
+        "super_url": "https://comicvine1.cbsistatic.com/uploads/scale_super/11142/111423871/7431800-sho.jpg",
+        "thumb_url": "https://comicvine1.cbsistatic.com/uploads/scale_super/11142/111423871/7431800-sho.jpg",
+        "tiny_url": "https://comicvine1.cbsistatic.com/uploads/square_mini/11142/111423871/7431800-sho.jpg",
+        "original_url": "https://comicvine1.cbsistatic.com/uploads/original/11142/111423871/7431800-sho.jpg",
+        "image_tags": "All Images"
+      },
+      "issue_credits": [
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-768931/",
+          "id": 768931,
+          "name": "Harlan contro Sho-Huan",
+          "site_detail_url": "https://comicvine.gamespot.com/dampyr-244-harlan-contro-sho-huan/4000-768931/"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-768758/",
+          "id": 768758,
+          "name": "Silverpilen",
+          "site_detail_url": "https://comicvine.gamespot.com/dampyr-243-silverpilen/4000-768758/"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-769332/",
+          "id": 769332,
+          "name": "Il santo venuto dall'Irlanda",
+          "site_detail_url": "https://comicvine.gamespot.com/dampyr-books-5-il-santo-venuto-dallirlanda/4000-769332/"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-768739/",
+          "id": 768739,
+          "name": "Il santo venuto dall'Irlanda",
+          "site_detail_url": "https://comicvine.gamespot.com/dampyr-224-il-santo-venuto-dallirlanda/4000-768739/"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-660462/",
+          "id": 660462,
+          "name": "L'Indagatore Dell'Incubo",
+          "site_detail_url": "https://comicvine.gamespot.com/dampyr-209-lindagatore-dellincubo/4000-660462/"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-562034/",
+          "id": 562034,
+          "name": "La grande bestia",
+          "site_detail_url": "https://comicvine.gamespot.com/dampyr-192-la-grande-bestia/4000-562034/"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-501801/",
+          "id": 501801,
+          "name": "I Vagabondi dell'Infinito",
+          "site_detail_url": "https://comicvine.gamespot.com/dampyr-178-i-vagabondi-dellinfinito/4000-501801/"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-501800/",
+          "id": 501800,
+          "name": "Scomparsi!",
+          "site_detail_url": "https://comicvine.gamespot.com/dampyr-177-scomparsi/4000-501800/"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-501494/",
+          "id": 501494,
+          "name": "Serata al Grand Guignol",
+          "site_detail_url": "https://comicvine.gamespot.com/dampyr-158-serata-al-grand-guignol/4000-501494/"
+        }
+      ],
+      "issues_died_in": [
+        
+      ],
+      "movies": [
+        
+      ],
+      "name": "Sho-Huan",
+      "origin": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/origin/4030-4/",
+        "id": 4,
+        "name": "Human"
+      },
+      "powers": [
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/power/4035-7/",
+          "id": 7,
+          "name": "Telepathy"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/power/4035-9/",
+          "id": 9,
+          "name": "Intellect"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/power/4035-12/",
+          "id": 12,
+          "name": "Psychic"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/power/4035-13/",
+          "id": 13,
+          "name": "Force Field"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/power/4035-21/",
+          "id": 21,
+          "name": "Invisibility"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/power/4035-40/",
+          "id": 40,
+          "name": "Immortal"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/power/4035-55/",
+          "id": 55,
+          "name": "Mesmerize"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/power/4035-58/",
+          "id": 58,
+          "name": "Escape Artist"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/power/4035-59/",
+          "id": 59,
+          "name": "Tracking"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/power/4035-60/",
+          "id": 60,
+          "name": "Astral Projection"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/power/4035-78/",
+          "id": 78,
+          "name": "Swordsmanship"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/power/4035-85/",
+          "id": 85,
+          "name": "Dimensional Manipulation"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/power/4035-93/",
+          "id": 93,
+          "name": "Time Travel"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/power/4035-101/",
+          "id": 101,
+          "name": "Darkness Manipulation"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/power/4035-115/",
+          "id": 115,
+          "name": "Hypnosis"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/power/4035-132/",
+          "id": 132,
+          "name": "Stealth"
+        },
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/power/4035-135/",
+          "id": 135,
+          "name": "Leadership"
+        }
+      ],
+      "publisher": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-100/",
+        "id": 100,
+        "name": "Sergio Bonelli Editore"
+      },
+      "real_name": "John Ross",
+      "site_detail_url": "https://comicvine.gamespot.com/sho-huan/4005-162811/",
+      "story_arc_credits": [
+        
+      ],
+      "team_enemies": [
+        
+      ],
+      "team_friends": [
+        
+      ],
+      "teams": [
+        
+      ],
+      "volume_credits": [
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-29465/",
+          "id": 29465,
+          "name": "Dampyr",
+          "site_detail_url": "https://comicvine.gamespot.com/dampyr/4050-29465/"
+        }
+      ]
+    },
+    "version": "1.0"
+  },
+
+    "114042" : {
+    "error": "OK",
+    "limit": 1,
+    "offset": 0,
+    "number_of_page_results": 1,
+    "number_of_total_results": 1,
+    "status_code": 1,
+    "results": {
+      "aliases": null,
+      "api_detail_url": "https://comicvine.gamespot.com/api/character/4005-114042/",
+      "birth": null,
+      "character_enemies": [
+        
+      ],
+      "character_friends": [
+        
+      ],
+      "count_of_issue_appearances": 1,
+      "creators": [
+        
+      ],
+      "date_added": "2015-02-03 10:53:31",
+      "date_last_updated": "2020-06-28 01:58:29",
+      "deck": null,
+      "description": null,
+      "first_appeared_in_issue": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/first_appeared_in_issue/4000-114590/",
+        "id": 114590,
+        "name": "The Power of Positive Thinking",
+        "issue_number": "17"
+      },
+      "gender": 1,
+      "id": 114042,
+      "image": {
+        "icon_url": "https://comicvine1.cbsistatic.com/uploads/square_medium/11112/111123579/7437641-mr.%20krollim.jpg",
+        "medium_url": "https://comicvine1.cbsistatic.com/uploads/scale_medium/11112/111123579/7437641-mr.%20krollim.jpg",
+        "screen_url": "https://comicvine1.cbsistatic.com/uploads/original/11112/111123579/7437641-mr.%20krollim.jpg",
+        "screen_large_url": "https://comicvine1.cbsistatic.com/uploads/original/11112/111123579/7437641-mr.%20krollim.jpg",
+        "small_url": "https://comicvine1.cbsistatic.com/uploads/original/11112/111123579/7437641-mr.%20krollim.jpg",
+        "super_url": "https://comicvine1.cbsistatic.com/uploads/original/11112/111123579/7437641-mr.%20krollim.jpg",
+        "thumb_url": "https://comicvine1.cbsistatic.com/uploads/original/11112/111123579/7437641-mr.%20krollim.jpg",
+        "tiny_url": "https://comicvine1.cbsistatic.com/uploads/square_medium/11112/111123579/7437641-mr.%20krollim.jpg",
+        "original_url": "https://comicvine1.cbsistatic.com/uploads/original/11112/111123579/7437641-mr.%20krollim.jpg",
+        "image_tags": "All Images"
+      },
+      "issue_credits": [
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-114590/",
+          "id": 114590,
+          "name": "The Power of Positive Thinking",
+          "site_detail_url": "https://comicvine.gamespot.com/legion-17-the-power-of-positive-thinking/4000-114590/"
+        }
+      ],
+      "issues_died_in": [
+        
+      ],
+      "movies": [
+        
+      ],
+      "name": "Mr. Krollim",
+      "origin": null,
+      "powers": [
+        
+      ],
+      "publisher": {
+        "api_detail_url": "https://comicvine.gamespot.com/api/publisher/4010-10/",
+        "id": 10,
+        "name": "DC Comics"
+      },
+      "real_name": null,
+      "site_detail_url": "https://comicvine.gamespot.com/mr-krollim/4005-114042/",
+      "story_arc_credits": [
+        
+      ],
+      "team_enemies": [
+        
+      ],
+      "team_friends": [
+        
+      ],
+      "teams": [
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/team/4060-47223/",
+          "id": 47223,
+          "name": "L.E.G.I.O.N.",
+          "site_detail_url": "https://comicvine.gamespot.com/legion/4060-47223/"
+        }
+      ],
+      "volume_credits": [
+        {
+          "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-18909/",
+          "id": 18909,
+          "name": "L.E.G.I.O.N.",
+          "site_detail_url": "https://comicvine.gamespot.com/legion/4050-18909/"
+        }
+      ]
+    },
+    "version": "1.0"
+  }
+}
